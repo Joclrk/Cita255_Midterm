@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCode_10_1.PizzaBagel"
+             Title="PizzaBagel">
+    <ScrollView>
+        <VerticalStackLayout>
+            <Image
+            WidthRequest="400" HeightRequest="500" Source="https://imgs.search.brave.com/g8dv_gJyq-_Bh7Zb0D9JdHmJJP8xIBVK7EW89ykukfo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vbGlmZW1h/ZGVzaW1wbGViYWtl/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMDgvSG9t/ZW1hZGUtUGl6emEt/QmFnZWwtQml0ZXMt/Mi5qcGc"
+                />
+            <Label 
+            Text="Pizza Bagel" FontSize="60" 
+                />
+            <Label 
+            Text="$6.30" TextColor="red" FontSize="40" Padding="6"
+                />
+            <Label 
+            Text="The COOLEST bagel! (can you tell im not good at descritpions)" Padding="5"
+                />
+            <Label 
+            Text="In Stock" TextColor="Green" Padding="5"
+                />
+            <Label 
+            Text="Quantity" Padding="5"
+                />
+            <Entry x:Name="QtyEntry" Placeholder="Enter Amount" 
+                />
+            <Button Text="Add to Cart" Clicked="Button_Clicked"  
+                />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCode_10_1.CheeseBagel"
+             Title="CheeseBagel">
+    <ScrollView>
+        <VerticalStackLayout>
+            <Image
+            WidthRequest="400" HeightRequest="500" Source="https://imgs.search.brave.com/PIC-y-SGED7R8H72mL2m0YfgbAAnDjV2MB5wZgxRPuQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDg2/OTY3NDQ0L3Bob3Rv/L2JhZ2VsLXdpdGgt/Y3JlYW0tY2hlZXNl/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz14T1FuU05OOWkx/SEJDU0VpX3dUWWVp/cEI4MTdMWktCckJf/Sy02a05NbXFNPQ"
+                />
+            <Label 
+            Text="Cheese Bagel" FontSize="60" 
+                />
+            <Label 
+            Text="$5.00" TextColor="red" FontSize="40" Padding="6"
+                />
+            <Label 
+            Text="A cooler bagel because its got some cheese!" Padding="5"
+                />
+            <Label 
+            Text="In Stock" TextColor="Green" Padding="5"
+                />
+            <Label 
+            Text="Quantity" Padding="5"
+                />
+            <Entry x:Name="QtyEntry" Placeholder="Enter Amount" 
+                />
+            <Button Text="Add to Cart" Clicked="Button_Clicked"  
+                />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

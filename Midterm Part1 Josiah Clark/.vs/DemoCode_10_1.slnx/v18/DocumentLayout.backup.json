@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\plainbagel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\plainbagel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|c:\\users\\jolaptop\\documents\\class stuff\\mobile app class\\democode_10_1\\democode_10_1\\democode_10_1\\plainbagel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460D9256-B0E9-A5FC-44EA-151E79F32929}|DemoCode_10_1\\DemoCode_10_1.csproj|solutionrelative:democode_10_1\\plainbagel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\AppShell.xaml",
+              "RelativeToolTip": "DemoCode_10_1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-09T01:29:10.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\Cart.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\Cart.xaml.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\Cart.xaml.cs",
+              "RelativeToolTip": "DemoCode_10_1\\Cart.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:29:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MainPage.xaml.cs",
+              "RelativeToolTip": "DemoCode_10_1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:34:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\AppShell.xaml.cs",
+              "RelativeToolTip": "DemoCode_10_1\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:28:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\App.xaml.cs",
+              "RelativeToolTip": "DemoCode_10_1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:28:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.xaml",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\Cart.xaml",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\Cart.xaml",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\Cart.xaml",
+              "RelativeToolTip": "DemoCode_10_1\\Cart.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-09T01:28:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MainPage.xaml",
+              "RelativeToolTip": "DemoCode_10_1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-08T23:34:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\MauiProgram.cs",
+              "RelativeToolTip": "DemoCode_10_1\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:34:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlainBagel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\PlainBagel.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\PlainBagel.xaml.cs",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\PlainBagel.xaml.cs",
+              "RelativeToolTip": "DemoCode_10_1\\PlainBagel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:34:17.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlainBagel.xaml",
+              "DocumentMoniker": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\PlainBagel.xaml",
+              "RelativeDocumentMoniker": "DemoCode_10_1\\PlainBagel.xaml",
+              "ToolTip": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\PlainBagel.xaml",
+              "RelativeToolTip": "DemoCode_10_1\\PlainBagel.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-08T23:34:05.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="DemoCode_10_1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:DemoCode_10_1"
+    Title="DemoCode_10_1">
+
+    <TabBar>
+
+        <ShellContent
+            Title="Store"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+        <ShellContent
+            Title="Cart"
+            ContentTemplate="{DataTemplate local:Cart}"
+            Route="Cart" />
+
+
+
+    </TabBar>
+
+
+</Shell>

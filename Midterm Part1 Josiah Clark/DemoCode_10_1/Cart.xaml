@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCode_10_1.Cart"
+             Title="Cart">
+    <VerticalStackLayout>
+        <Grid RowDefinitions="Auto,Auto,*,Auto,Auto,Auto,Auto,Auto,Auto,Auto" RowSpacing="40">
+        <Label
+            Text="Cart and Checkout" FontSize="20" Padding="5" Grid.Row="0"
+            />
+            <Label
+            Text="Nothing here YET!" Grid.Row="1"
+            />
+            <Label
+            Text="Total: $0" HorizontalTextAlignment="End" FontSize="15" Grid.Row="8"
+            />
+            <Button Text="Checkout" Clicked="Button_Clicked" Grid.Row="9"
+            />
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
