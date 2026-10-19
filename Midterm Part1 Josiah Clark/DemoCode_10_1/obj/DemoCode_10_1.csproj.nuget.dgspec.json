@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1.csproj": {}
+    "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\DemoCode_10_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1.csproj": {
+    "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\DemoCode_10_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1.csproj",
+        "projectUniqueName": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\DemoCode_10_1.csproj",
         "projectName": "DemoCode_10_1",
-        "projectPath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1.csproj",
+        "projectPath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\DemoCode_10_1.csproj",
         "packagesPath": "C:\\Users\\JoLaptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\obj\\",
+        "outputPath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

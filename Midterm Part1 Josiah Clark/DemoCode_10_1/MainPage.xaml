@@ -7,15 +7,13 @@
         <VerticalStackLayout>
             <CollectionView x:Name="productList"
                 SelectionMode="Single"
-                SelectionChanged="OnProductSelected">
+                SelectionChanged="ProductSelected">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <Label Text="{Binding .}" FontSize="20" HorizontalTextAlignment="Center" />
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
-            <Label Text="Selection" x:Name="selectionLabel" FontSize="50" HorizontalTextAlignment="Center"/>
-        
         </VerticalStackLayout>
 
     </ScrollView>

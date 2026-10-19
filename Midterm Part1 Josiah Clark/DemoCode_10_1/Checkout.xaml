@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCode_10_1.Checkout"
+             Title="Checkout">
+    <ScrollView>
+        <Grid RowDefinitions="Auto,Auto,*,Auto,Auto,Auto,Auto,Auto,Auto,Auto" RowSpacing="40">
+            <VerticalStackLayout>
+                <Border Grid.Row="1" StrokeThickness="1" Padding="4">
+                    <CollectionView x:Name="CartView">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Label Text="{Binding .}" FontSize="16" Padding="12,10"/>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+
+                        <CollectionView.EmptyView>
+                            <Label Text="Your cart is empty." FontSize="16" Padding="12,10"/>
+                        </CollectionView.EmptyView>
+                    </CollectionView>
+                </Border>
+                <Label x:Name="TotalLabel" Grid.Row="2" Text="Total: $0.00" FontSize="20" Padding="12,10"/>
+                <Button Grid.Row="6" Text="Checkout" FontSize="16" Padding="12,10" Clicked="Button_Clicked"/>
+                <Label x:Name="EndLabel" Grid.Row="7" Text="" FontSize="16" Padding="12,10"/>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

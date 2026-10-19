@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33JEDTEb5ZY=",
+  "dgSpecHash": "Dl9HUg4X+os=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1\\DemoCode_10_1.csproj",
+  "projectFilePath": "C:\\Users\\JoLaptop\\Documents\\class stuff\\Mobile app class\\DemoCode_10_1\\Midterm Part1 Josiah Clark\\DemoCode_10_1\\DemoCode_10_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JoLaptop\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\JoLaptop\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",

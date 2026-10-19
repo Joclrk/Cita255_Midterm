@@ -21,13 +21,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoCode_10_1
-build_property.ProjectDir = C:\Users\JoLaptop\Documents\class stuff\Mobile app class\DemoCode_10_1\DemoCode_10_1\DemoCode_10_1\
+build_property.ProjectDir = C:\Users\JoLaptop\Documents\class stuff\Mobile app class\DemoCode_10_1\Midterm Part1 Josiah Clark\DemoCode_10_1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/App.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -37,7 +37,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/AppShell.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -47,27 +47,27 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/Cart.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/Checkout.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.Cart.xaml
-build_metadata.AdditionalFiles.TargetPath = Cart.xaml
-build_metadata.AdditionalFiles.RelativePath = Cart.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.Checkout.xaml
+build_metadata.AdditionalFiles.TargetPath = Checkout.xaml
+build_metadata.AdditionalFiles.RelativePath = Checkout.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/CheeseBagel.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/ItemsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.CheeseBagel.xaml
-build_metadata.AdditionalFiles.TargetPath = CheeseBagel.xaml
-build_metadata.AdditionalFiles.RelativePath = CheeseBagel.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.ItemsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ItemsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ItemsPage.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/MainPage.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -77,27 +77,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/PizzaBagel.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.PizzaBagel.xaml
-build_metadata.AdditionalFiles.TargetPath = PizzaBagel.xaml
-build_metadata.AdditionalFiles.RelativePath = PizzaBagel.xaml
-build_metadata.AdditionalFiles.Inflator = SourceGen
-build_metadata.AdditionalFiles.NoWarn = 
-build_metadata.AdditionalFiles.EnableDiagnostics = 
-build_metadata.AdditionalFiles.LineInfo = 
-
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/PlainBagel.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.PlainBagel.xaml
-build_metadata.AdditionalFiles.TargetPath = PlainBagel.xaml
-build_metadata.AdditionalFiles.RelativePath = PlainBagel.xaml
-build_metadata.AdditionalFiles.Inflator = SourceGen
-build_metadata.AdditionalFiles.NoWarn = 
-build_metadata.AdditionalFiles.EnableDiagnostics = 
-build_metadata.AdditionalFiles.LineInfo = 
-
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/Resources/Styles/Colors.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -107,21 +87,11 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/Resources/Styles/Styles.xaml]
+[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/Midterm Part1 Josiah Clark/DemoCode_10_1/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
-build_metadata.AdditionalFiles.Inflator = SourceGen
-build_metadata.AdditionalFiles.NoWarn = 
-build_metadata.AdditionalFiles.EnableDiagnostics = 
-build_metadata.AdditionalFiles.LineInfo = 
-
-[C:/Users/JoLaptop/Documents/class stuff/Mobile app class/DemoCode_10_1/DemoCode_10_1/DemoCode_10_1/RottenBagel.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DemoCode_10_1.RottenBagel.xaml
-build_metadata.AdditionalFiles.TargetPath = RottenBagel.xaml
-build_metadata.AdditionalFiles.RelativePath = RottenBagel.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 

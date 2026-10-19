@@ -13,9 +13,9 @@
             ContentTemplate="{DataTemplate local:MainPage}"
             Route="MainPage" />
         <ShellContent
-            Title="Cart"
-            ContentTemplate="{DataTemplate local:Cart}"
-            Route="Cart" />
+            Title="Checkout"
+            ContentTemplate="{DataTemplate local:Checkout}"
+            Route="Checkout" />
 
 
 

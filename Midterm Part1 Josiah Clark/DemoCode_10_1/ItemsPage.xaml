@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCode_10_1.ItemsPage"
+             Title="ItemsPage">
+    <ScrollView>
+        <Grid RowDefinitions="Auto, *, Auto, Auto, Auto, Auto, Auto, Auto, Auto" Padding="24" RowSpacing="14">
+            <Image
+            WidthRequest="400" HeightRequest="500"
+              Grid.Row="0" x:Name="productImage"/>
+            <Label x:Name="ProductLabel"
+            Text="(name)" FontSize="60" 
+              Grid.Row="2"  />
+            <Label x:Name="PriceLabel"
+            Text="(price)" TextColor="red" FontSize="40" Padding="6"
+               Grid.Row="3" />
+            <Label x:Name="DescriptionLabel"
+            Text="(description)" Padding="5"
+              Grid.Row="4" />
+            <Label 
+            Text="In Stock" TextColor="Green" Padding="5"
+                Grid.Row="5" x:Name="InStockLabel" IsVisible="True" />
+            <Label 
+            Text="Quantity" Padding="5"
+                Grid.Row="6" x:Name="QtyLabel" IsVisible="True" />
+            <Entry x:Name="QtyEntry" Placeholder="Enter Amount" 
+                Grid.Row="7" />
+                <Button Text="Add to Cart" Clicked="Button_Clicked"  
+                Grid.Row="8" x:Name="AddToCartButton" />
+            <Label 
+            Text="Out of Stock" TextColor="Red" Padding="5"
+                Grid.Row="5" x:Name="OutOfStockLabel" IsVisible="False" />
+        </Grid>
+    </ScrollView>
+</ContentPage>

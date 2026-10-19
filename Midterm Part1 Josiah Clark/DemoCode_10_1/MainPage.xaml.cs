@@ -2,43 +2,27 @@
 {
     public partial class MainPage : ContentPage
     {
-        List<string> products =
-        [
-            "Plain Bagel",
-            "Cheese Bagel",
-            "Pizza Bagel",
-            "Rotten Bagel"
-        ];
 
+        List<string> products = new List<string>();
         public MainPage()
         {
             InitializeComponent();
+            for (int i = 0; i < Items.Names.Length; i++)
+            {
+                products.Add($"{Items.Names[i]} - {Items.Price[i]:C}");
+            }
             productList.ItemsSource = products;
         }
 
-        private void OnProductSelected(object sender, SelectionChangedEventArgs e)
+        private async void ProductSelected(object sender, SelectionChangedEventArgs e)
         {
-            if (e.CurrentSelection.Count > 0)
-            {
-                string picked = e.CurrentSelection[0].ToString();
+            if (e.CurrentSelection.Count == 0)
+                return;
+           string picked = e.CurrentSelection[0].ToString();
+           productList.SelectedItem = null;
+           int index = products.IndexOf(picked);
+           await Shell.Current.GoToAsync($"ItemPage?index={index}");
 
-                productList.SelectedItem = null;
-
-                if (picked == "Plain Bagel") {
-                    Shell.Current.GoToAsync("PlainBagel");
-                }else if(picked == "Cheese Bagel")
-                {
-                    Shell.Current.GoToAsync("CheeseBagel");
-                }
-                else if (picked == "Pizza Bagel")
-                {
-                    Shell.Current.GoToAsync("PizzaBagel");
-                }
-                else if (picked == "Rotten Bagel")
-                {
-                    Shell.Current.GoToAsync("RottenBagel"); //chossen out of stock for midterm 
-                }
-            }
         }
     }
 }
